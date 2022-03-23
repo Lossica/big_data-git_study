@@ -6,5 +6,6 @@
 
 
 
+git checkout -d 브랜치이름 : branch 삭제
 
-
+git checkout -b 브랜치이름 : branch 제작 후 HEAD 이동
